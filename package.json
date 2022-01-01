@@ -29,7 +29,8 @@
     "webpack-dev-server": "^4.6.0"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "normalize.css": "^8.0.1"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --open",
